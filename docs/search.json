@@ -88,7 +88,7 @@
     "href": "BasePlus1Carries.html",
     "title": "Base Plus 1 Carries",
     "section": "",
-    "text": "Taiwanese Torso Double Hammock Wiggleproof Back Carry (WP) Double Hammock often requires Base+1 for many wrappers"
+    "text": "Taiwanese\nTorso Double Hammock\nWiggleproof Back Carry (WP)\nDouble Hammock often requires Base+1 for many wrappers"
   },
   {
     "objectID": "GisellesBackCarry.html",
@@ -207,21 +207,21 @@
     "href": "BaseSizeCarries.html#front-carries",
     "title": "Base Size Carries",
     "section": "Front Carries",
-    "text": "Front Carries\nFront Cross Carry\nFront Double Hammock\nFront Torso Cross Carry\nFront Wrap Cross Carry\nPocket Wrap Cross Carry\nReinforced Kangaroo"
+    "text": "Front Carries\n\nFront Cross Carry\n\nFront Double Hammock\n\nFront Torso Cross Carry\n\nFront Wrap Cross Carry\n\nPocket Wrap Cross Carry\n\nReinforced Kangaroo"
   },
   {
     "objectID": "BaseSizeCarries.html#hip-carries",
     "href": "BaseSizeCarries.html#hip-carries",
     "title": "Base Size Carries",
     "section": "Hip Carries",
-    "text": "Hip Carries\nHip Wrap Cross Carry\nReinforced Robin’s Hip Carry"
+    "text": "Hip Carries\n\nHip Wrap Cross Carry\n\nReinforced Robin’s Hip Carry"
   },
   {
     "objectID": "BaseSizeCarries.html#back-carries",
     "href": "BaseSizeCarries.html#back-carries",
     "title": "Base Size Carries",
     "section": "Back Carries",
-    "text": "Back Carries\nBack Wrap Cross Carry\nCharlie’s Cross Carry\nDouble Hammock\nDouble Hammock Wiggleproof\nDouble Sling Shoulder to Shoulder\nMermaid Carry\nRing Jordan’s Back Carry\nTorso Wrap Cross Carry"
+    "text": "Back Carries\n\nBack Wrap Cross Carry\n\nCharlie’s Cross Carry\n\nDouble Hammock\n\nDouble Hammock Wiggleproof\n\nDouble Sling Shoulder to Shoulder\n\nMermaid Carry\n\nRing Jordan’s Back Carry\n\nTorso Wrap Cross Carry"
   },
   {
     "objectID": "SemiFrontWrapCrossCarry.html",
@@ -375,21 +375,21 @@
     "href": "BaseMinus2Carries.html",
     "title": "Base Minus 2 Carries",
     "section": "",
-    "text": "Front Wrap Cross Carry Tied Under Bum (FWCC TUB) Kangaroo Short Cross Carry (SCC)"
+    "text": "Front Wrap Cross Carry Tied Under Bum (FWCC TUB)\nKangaroo\nShort Cross Carry (SCC)"
   },
   {
     "objectID": "BaseMinus2Carries.html#hip-carries",
     "href": "BaseMinus2Carries.html#hip-carries",
     "title": "Base Minus 2 Carries",
     "section": "Hip Carries",
-    "text": "Hip Carries\nCoolest Hip Cross Carry (CHCC) Reverse Coolest Hip Cross Carry (RCHCC) Robin’s Hip Carry"
+    "text": "Hip Carries\n\nCoolest Hip Cross Carry (CHCC)\nReverse Coolest Hip Cross Carry (RCHCC)\nRobin’s Hip Carry"
   },
   {
     "objectID": "BaseMinus2Carries.html#back-carries",
     "href": "BaseMinus2Carries.html#back-carries",
     "title": "Base Minus 2 Carries",
     "section": "Back Carries",
-    "text": "Back Carries\nJordan’s Back Carry (JBC) Reinforced Ruck Ruck Tied in Front (RTIF)"
+    "text": "Back Carries\n\nJordan’s Back Carry (JBC)\nReinforced Ruck\nRuck Tied in Front (RTIF)"
   },
   {
     "objectID": "DoubleHammockTAS.html",
@@ -487,14 +487,14 @@
     "href": "BaseMinus5Carries.html#hip-carries",
     "title": "Base Minus 5 Carries",
     "section": "Hip Carries",
-    "text": "Hip Carries\nTraditional Sling Carry (TSC) No-sew Ring Sling Simple Hip Carry (HC)"
+    "text": "Hip Carries\n\nTraditional Sling Carry (TSC)\nNo-sew Ring Sling\nSimple Hip Carry (HC)"
   },
   {
     "objectID": "BaseMinus5Carries.html#back-carries",
     "href": "BaseMinus5Carries.html#back-carries",
     "title": "Base Minus 5 Carries",
     "section": "Back Carries",
-    "text": "Back Carries\nTraditional Back Carry (TBC)"
+    "text": "Back Carries\n\nTraditional Back Carry (TBC)"
   },
   {
     "objectID": "BaseSizeGuide.html",
@@ -737,16 +737,58 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Wearing Wiki",
+    "title": "wearingwiki",
     "section": "",
     "text": "Did you miss us? Wearing Wiki is rebuilding!"
   },
   {
-    "objectID": "CarriesByWrapSize.html",
-    "href": "CarriesByWrapSize.html",
+    "objectID": "CarriesByWrapSize.html#base-size-carries",
+    "href": "CarriesByWrapSize.html#base-size-carries",
     "title": "Carries by Wrap Size",
-    "section": "",
-    "text": "##Base Plus 1 Carries ##Base Size Carries ##Base Minus 1 Carries ##Base Minus 2 Carries ##Base Minus 3 Carries ##Base Minus 4 Carries ##Base Minus 5 Carries ##Base Minus 6 Carries"
+    "section": "Base Size Carries",
+    "text": "Base Size Carries"
+  },
+  {
+    "objectID": "CarriesByWrapSize.html#base-minus-1-carries",
+    "href": "CarriesByWrapSize.html#base-minus-1-carries",
+    "title": "Carries by Wrap Size",
+    "section": "Base Minus 1 Carries",
+    "text": "Base Minus 1 Carries"
+  },
+  {
+    "objectID": "CarriesByWrapSize.html#base-minus-2-carries",
+    "href": "CarriesByWrapSize.html#base-minus-2-carries",
+    "title": "Carries by Wrap Size",
+    "section": "Base Minus 2 Carries",
+    "text": "Base Minus 2 Carries"
+  },
+  {
+    "objectID": "CarriesByWrapSize.html#base-minus-3-carries",
+    "href": "CarriesByWrapSize.html#base-minus-3-carries",
+    "title": "Carries by Wrap Size",
+    "section": "Base Minus 3 Carries",
+    "text": "Base Minus 3 Carries"
+  },
+  {
+    "objectID": "CarriesByWrapSize.html#base-minus-4-carries",
+    "href": "CarriesByWrapSize.html#base-minus-4-carries",
+    "title": "Carries by Wrap Size",
+    "section": "Base Minus 4 Carries",
+    "text": "Base Minus 4 Carries"
+  },
+  {
+    "objectID": "CarriesByWrapSize.html#base-minus-5-carries",
+    "href": "CarriesByWrapSize.html#base-minus-5-carries",
+    "title": "Carries by Wrap Size",
+    "section": "Base Minus 5 Carries",
+    "text": "Base Minus 5 Carries"
+  },
+  {
+    "objectID": "CarriesByWrapSize.html#base-minus-6-carries",
+    "href": "CarriesByWrapSize.html#base-minus-6-carries",
+    "title": "Carries by Wrap Size",
+    "section": "Base Minus 6 Carries",
+    "text": "Base Minus 6 Carries"
   },
   {
     "objectID": "Taiwanese.html",
@@ -956,21 +998,21 @@
     "href": "BaseMinus3Carries.html",
     "title": "Base Minus 1 Carries",
     "section": "",
-    "text": "Front Reinforced Torso Sling (FRTS) Half Front Wrap Cross Carry (Half FWCC) Semi Front Wrap Cross Carry (Semi FWCC)"
+    "text": "Front Reinforced Torso Sling (FRTS)\nHalf Front Wrap Cross Carry (Half FWCC)\nSemi Front Wrap Cross Carry (Semi FWCC)"
   },
   {
     "objectID": "BaseMinus3Carries.html#hip-carries",
     "href": "BaseMinus3Carries.html#hip-carries",
     "title": "Base Minus 1 Carries",
     "section": "Hip Carries",
-    "text": "Hip Carries\nHip Cross Carry (HCC) Hip Kangaroo Carry (HKC) Hip Reinforced Torso Sling (HRTS) Poppins Hip Carry"
+    "text": "Hip Carries\n\nHip Cross Carry (HCC)\nHip Kangaroo Carry (HKC)\nHip Reinforced Torso Sling (HRTS)\nPoppins Hip Carry"
   },
   {
     "objectID": "BaseMinus3Carries.html#back-carries",
     "href": "BaseMinus3Carries.html#back-carries",
     "title": "Base Minus 1 Carries",
     "section": "Back Carries",
-    "text": "Back Carries\nBack Reinforced Torso Sling (BRTS) aka Half Double Hammock Double Hammock Double Rings (DHDR) Double Sling (DS) Half Jordan’s Back Carry (HJBC) Knotless Ruck Lola’s Back Carry Reinforced Rear Ruck (RRR) aka Pirate Carry Shepherd’s Back Carry Short Back Cross Carry (SBCC)"
+    "text": "Back Carries\n\nBack Reinforced Torso Sling (BRTS) aka Half Double Hammock\nDouble Hammock Double Rings (DHDR)\nDouble Sling (DS)\nHalf Jordan’s Back Carry (HJBC)\nKnotless Ruck\nLola’s Back Carry\nReinforced Rear Ruck (RRR) aka Pirate Carry\nShepherd’s Back Carry\nShort Back Cross Carry (SBCC)"
   },
   {
     "objectID": "MaxinesBackCarry.html",
@@ -1236,7 +1278,7 @@
     "href": "BaseMinus1Carries.html",
     "title": "Base Minus 1 Carries",
     "section": "",
-    "text": "Back Wrap Cross Carry with Ruck Straps Christina’s Ruckless Double Hammock Tied at Shoulder (DHTAS) Ellevill Jordan’s Back Carry (EJBC) Giselle’s Back Carry (GBC) Maxine’s [Max’s] Back Carry Norwegian Wiggleproof Ruck Tied Tibetan (RTT) Secure High Back Carry (SHBC) Wendy’s Double Hammock (WDH)"
+    "text": "Back Wrap Cross Carry with Ruck Straps\nChristina’s Ruckless\nDouble Hammock Tied at Shoulder (DHTAS)\nEllevill Jordan’s Back Carry (EJBC)\nGiselle’s Back Carry (GBC)\nMaxine’s [Max’s] Back Carry\nNorwegian Wiggleproof\nRuck Tied Tibetan (RTT)\nSecure High Back Carry (SHBC)\nWendy’s Double Hammock (WDH)"
   },
   {
     "objectID": "TorsoDoubleHammock.html",
@@ -1334,7 +1376,7 @@
     "href": "BaseMinus4Carries.html#back-carries",
     "title": "Base Minus 4 Carries",
     "section": "Back Carries",
-    "text": "Back Carries\nRuck Tied at Shoulder (RTAS) Ruck Tied Under Bum (RUB) Strap Carry"
+    "text": "Back Carries\n\nRuck Tied at Shoulder (RTAS)\nRuck Tied Under Bum (RUB)\nStrap Carry"
   },
   {
     "objectID": "ReinforcedRearRuck.html",
