@@ -14,18 +14,18 @@ jupyter: python3
 |size	|Base Size
 |finish variations|	
 |number of shoulders	|2
-|level	|beginner
+|level	|
 |type of wrap	|Woven Wrap, Stretchy Wrap, Hybrid Wrap
 |characteristics	|
 |good for	|Straighteners, Toddlers and Support
 
 ## Carry Recipe
 _Hip Wrap Cross Carry – Base Size – Torso Pass + 2 Cross Passes_
-Torso Pass
-Cross in back and bring tails over shoulders
-Slide baby in pocket and scoot to hip
-Two Cross Passes, spread or bunched
-Tie in back or at hip
+- Torso Pass
+- Cross in back and bring tails over shoulders
+- Slide baby in pocket and scoot to hip
+- Two Cross Passes, spread or bunched
+- Tie in back or at hip
 
 ## Tutorial Links
 ### Links to photo tutorials

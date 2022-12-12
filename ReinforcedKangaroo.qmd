@@ -14,18 +14,18 @@ jupyter: python3
 |size	|Base Size
 |finish variations|	
 |number of shoulders	|2
-|level	|beginner
+|level	|
 |type of wrap	|Woven Wrap
 |characteristics	|Shoulder Flip optional
 |good for	|Leaners, Nursing, Sleep Transfer, Heat, Newborns
 
 ## Carry Recipe
 _Reinforced Kangaroo – Base Size – Kangaroo Pass + 2 Reinforcing Passes_
-Kangaroo Pass over baby
-Flip Shoulders
-Cross in Back
-Reinforcing Passes, spread or bunched
-Tie in Back
+- Kangaroo Pass over baby
+- Flip Shoulders
+- Cross in Back
+- Reinforcing Passes, spread or bunched
+- Tie in Back
 
 ## Tutorial Links
 ### Links to photo tutorials

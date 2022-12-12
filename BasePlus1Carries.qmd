@@ -6,6 +6,8 @@ format:
 jupyter: python3
 ---
 
+[Base Size](BaseSizeGuide.html) is the defined as the woven wrap size needed to do [Front Wrap Cross Carry](FrontWrapCrossCarry.html). Base Size Plus 1 would be one wrap size larger than a wearer's base. In addition to the carries listed below, adding fancy finishes, using a thick wrap, wrapping a larger child, and other factors may result in the need to use a Base+1 wrap for many Base Size carries.
+
 ## Back Carries
 - [Taiwanese](Taiwanese.html)
 - [Torso Double Hammock](TorsoDoubleHammock.html)

@@ -1,5 +1,5 @@
 ---
-title: "Front Wrap Cross Carry"
+title: "Ruck Tied Under Bum"
 format:
   html:
     code-fold: true
@@ -8,24 +8,21 @@ jupyter: python3
 
 | | 
 |---|---
-|abbreviation	|FWCC
-|type	|front carry
-|pass types used	|Torso Pass, Cross Pass
-|size	|Base Size
+|abbreviation	|RTUB
+|type	|back carry
+|pass types used	|Ruck Pass
+|size	|Base Minus 3
 |finish variations|	
 |number of shoulders	|2
-|level	|beginner
-|type of wrap	|Woven Wrap, Stretchy Wrap, Hybrid Wrap
-|characteristics	|Poppable with a Stretchy
-|good for	|Straighteners, Nursing, Sleep Transfer, Newborns, Toddlers and Support
+|level	|advanced
+|type of wrap	|Woven Wrap
+|characteristics	|
+|good for	|Leaners, Sleep Transfer, Heat
 
 ## Carry Recipe
-Base Size – Torso Pass + 2 Cross Passes   
-Torso Pass (Optional: Fold wrap hot dog style with rails up)   
-Cross in Back and bring tails over shoulders   
-Slide baby in pocket   
-Two Cross Passes, spread or bunched   
-Tie in Back   
+_Ruck Tied Under Bum – Base Size Minus 3 – Ruck Pass_
+- Ruck Pass over baby on back
+- Under arms and TUB
 
 ## Tutorial Links
 ### Links to photo tutorials

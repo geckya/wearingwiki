@@ -7,12 +7,12 @@ jupyter: python3
 ---
 
 ## Front Carries
-- Traditional Sling Carry (TSC)
+- [Traditional Sling Carry (TSC)](TraditionalSlingCarry.html)
 
 ## Hip Carries
-- Traditional Sling Carry (TSC)
-- No-sew Ring Sling
-- Simple Hip Carry (HC)
+- [Traditional Sling Carry (TSC)](TraditionalSlingCarry.html)
+- [No-sew Ring Sling](NoSewRingSling.html)
+- [Simple Hip Carry (HC)](SimpleHipCarry.html)
 
 ## Back Carries
-- Traditional Back Carry (TBC)
+- [Traditional Back Carry (TBC)](TraditionalBackCarry.html)

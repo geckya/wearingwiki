@@ -7,9 +7,9 @@ jupyter: python3
 ---
 
 ## Hip Carries
-- No No No Hip Carry
+- [No No No Hip Carry](NoNoNoHipCarry.html)
 
 ## Back Carries
-- Ruck Tied at Shoulder (RTAS)
-- Ruck Tied Under Bum (RUB)
-- Strap Carry
+- [Ruck Tied at Shoulder (RTAS)](RuckTAS.html)
+- [Ruck Tied Under Bum (RUB)](RuckTUB.html)
+- [Strap Carry](StrapCarry.html)

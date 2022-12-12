@@ -12,6 +12,7 @@ website:
       - BaseSizeGuide.qmd
       - CarriesByWrapSize.qmd
       - WovenWrapSizes.qmd
+      - WrapPasses.qmd
 
 format:
   html:

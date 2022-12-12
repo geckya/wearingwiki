@@ -1,0 +1,25 @@
+---
+title: "Wrap Passes"
+format:
+  html:
+    code-fold: true
+jupyter: python3
+---
+
+## Cross Pass, Wiggleproof Pass
+A **Cross Pass** the main Wrap Passes used to build a carry. The wrap spreads over baby on the diagonal with one end under baby’s leg and the other over wrapper’s shoulder. Can also be bunched.
+ A **Wiggleproof Pass** is a Cross Pass which begins under baby’s leg and is spread up to the wrapper’s opposite shoulder.
+
+## Traditional Sling Pass
+A **Traditional Sling Pass** is one of the main Wrap Passes used to build a carry. The wrap spreads over baby on the diagonal with one end over baby’s leg and under the wrapper’s arm and the other end over the wrapper’s shoulder.
+
+## Ruck Pass, Kangaroo Pass
+A **Kangaroo Pass** or **Ruck Pass** is one of the main Wrap Passes used to build a carry. The wrap spreads over baby and over both of the wrapper’s shoulders. The term "kangaroo pass" is used when baby is worn on the front or hip; when baby is on the wearer's back, the pass is considered a "ruck pass."
+
+## Torso Pass, Horizontal Pass, Chest Pass
+A **Torso Pass** or **Horizontal Pass** is one of the main Wrap Passes used to build a carry. The wrap spreads over baby and under both of the wrapper’s arms. Can also be bunched as in RTAS.
+A **Chest Pass** is a Torso Pass which spreads across the wearer's front while baby is worn on the back, as in a Double Hammock.
+
+## Reinforcing Pass
+A **Reinforcing Pass** is a supporting Wrap Pass used to build a carry. The wrap spreads from under the wrapper’s arm across baby diagonally and under baby’s leg. Can be bunched or spread.
+A reinforcing pass cannot be used to execute a single layer carry.

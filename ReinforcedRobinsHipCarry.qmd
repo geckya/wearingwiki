@@ -14,18 +14,18 @@ jupyter: python3
 |size	|Base Size
 |finish variations|	
 |number of shoulders	|1
-|level	|beginner
+|level	|
 |type of wrap	|Woven Wrap
 |characteristics	|Poppable
 |good for	|Straighteners, Leaners, Toddlers and Support
 
 ## Carry Recipe
 _Reinforced Robin’s Hip Carry – Base Size – 2 Traditional Sling Passes + Cross Pass_
-Fold wrap in half lengthwise and place middle in corsage position
-Drape tails around back diagonally and thread through loop
-Slide baby in both Traditional Sling Passes and tighten
-Split wrap and take closest tail over baby and under leg for Cross Pass
-Other tail comes down around waist and tie in back
+- Fold wrap in half lengthwise and place middle in corsage position
+- Drape tails around back diagonally and thread through loop
+- Slide baby in both Traditional Sling Passes and tighten
+- Split wrap and take closest tail over baby and under leg for Cross Pass
+- Other tail comes down around waist and tie in back
 
 ## Tutorial Links
 ### Links to photo tutorials
