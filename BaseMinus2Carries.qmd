@@ -1,0 +1,22 @@
+---
+title: "Base Minus 2 Carries"
+format:
+  html:
+    code-fold: true
+jupyter: python3
+---
+
+## Front Carries
+- Front Wrap Cross Carry Tied Under Bum (FWCC TUB)
+- Kangaroo
+- Short Cross Carry (SCC)
+
+## Hip Carries
+- Coolest Hip Cross Carry (CHCC)
+- Reverse Coolest Hip Cross Carry (RCHCC)
+- Robin's Hip Carry
+
+## Back Carries
+- Jordan's Back Carry (JBC)
+- Reinforced Ruck
+- Ruck Tied in Front (RTIF)

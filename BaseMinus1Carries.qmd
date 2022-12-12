@@ -1,0 +1,19 @@
+---
+title: "Base Minus 1 Carries"
+format:
+  html:
+    code-fold: true
+jupyter: python3
+---
+
+## Back Carries
+- Back Wrap Cross Carry with Ruck Straps
+- Christina's Ruckless
+- Double Hammock Tied at Shoulder (DHTAS)
+- Ellevill Jordan's Back Carry (EJBC)
+- Giselle's Back Carry (GBC)
+- Maxine's [Max's] Back Carry
+- Norwegian Wiggleproof
+- Ruck Tied Tibetan (RTT)
+- Secure High Back Carry (SHBC)
+- Wendy's Double Hammock (WDH)

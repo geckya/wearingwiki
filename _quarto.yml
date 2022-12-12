@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "wearingwiki"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - BaseSizeGuide.qmd
+      - CarriesByWrapSize.qmd
+      - WovenWrapSizes.qmd
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+
+

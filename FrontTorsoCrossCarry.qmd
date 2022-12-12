@@ -1,0 +1,35 @@
+---
+title: "Front Torso Cross Carry"
+format:
+  html:
+    code-fold: true
+jupyter: python3
+---
+
+| | 
+|---|---
+|abbreviation	|FTCC
+|type	|front carry
+|pass types used	|Torso Pass, Reinforcing Pass
+|size	|Base Size
+|finish variations|	
+|number of shoulders	|none
+|level	|
+|type of wrap	|Woven Wrap
+|characteristics	|
+|good for	|Leaners, Sleep Transfer, Newborns, Toddlers and Support
+
+## Carry Recipe
+_Front Torso Cross Carry – Base Size – Torso Pass + Two Reinforcing Passes_
+Torso Pass (Optional: Fold wrap hot dog style with rails up)
+Cross in Back and bring tails over shoulders
+Slide baby in pocket and tighten
+Slide tails down to go under arms instead of over shoulders
+Two bunched Reinforcing Passes
+Tie in back
+
+## Tutorial Links
+### Links to photo tutorials
+### Links to silent tutorials
+### Links to captioned tutorials
+### Links to tutorials (accessibility not yet evaluated)

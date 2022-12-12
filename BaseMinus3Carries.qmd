@@ -1,0 +1,30 @@
+---
+title: "Base Minus 1 Carries"
+format:
+  html:
+    code-fold: true
+jupyter: python3
+---
+
+## Front Carries
+- Front Reinforced Torso Sling (FRTS)
+- Half Front Wrap Cross Carry (Half FWCC)
+- Semi Front Wrap Cross Carry (Semi FWCC)
+
+## Hip Carries
+- Hip Cross Carry (HCC)
+- Hip Kangaroo Carry (HKC)
+- Hip Reinforced Torso Sling (HRTS)
+- Poppins Hip Carry
+
+## Back Carries
+- Back Reinforced Torso Sling (BRTS) _aka Half Double Hammock_
+- Double Hammock Double Rings (DHDR)
+- Double Sling (DS)
+- Half Jordan's Back Carry (HJBC)
+- Knotless Ruck
+- Lola's Back Carry
+- Reinforced Rear Ruck (RRR) _aka Pirate Carry_
+- Shepherd's Back Carry
+- Short Back Cross Carry (SBCC)
+

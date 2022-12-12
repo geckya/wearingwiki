@@ -1,0 +1,34 @@
+---
+title: "Reinforced Robin's Hip Carry"
+format:
+  html:
+    code-fold: true
+jupyter: python3
+---
+
+| | 
+|---|---
+|abbreviation	|RRHC
+|type	|hip carry
+|pass types used	|Traditional Sling Pass, Cross Pass
+|size	|Base Size
+|finish variations|	
+|number of shoulders	|1
+|level	|beginner
+|type of wrap	|Woven Wrap
+|characteristics	|Poppable
+|good for	|Straighteners, Leaners, Toddlers and Support
+
+## Carry Recipe
+_Reinforced Robin’s Hip Carry – Base Size – 2 Traditional Sling Passes + Cross Pass_
+Fold wrap in half lengthwise and place middle in corsage position
+Drape tails around back diagonally and thread through loop
+Slide baby in both Traditional Sling Passes and tighten
+Split wrap and take closest tail over baby and under leg for Cross Pass
+Other tail comes down around waist and tie in back
+
+## Tutorial Links
+### Links to photo tutorials
+### Links to silent tutorials
+### Links to captioned tutorials
+### Links to tutorials (accessibility not yet evaluated)

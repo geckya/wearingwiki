@@ -1,0 +1,15 @@
+---
+title: "Base Minus 4 Carries"
+format:
+  html:
+    code-fold: true
+jupyter: python3
+---
+
+## Hip Carries
+- No No No Hip Carry
+
+## Back Carries
+- Ruck Tied at Shoulder (RTAS)
+- Ruck Tied Under Bum (RUB)
+- Strap Carry

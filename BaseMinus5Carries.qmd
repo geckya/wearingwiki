@@ -1,0 +1,18 @@
+---
+title: "Base Minus 5 Carries"
+format:
+  html:
+    code-fold: true
+jupyter: python3
+---
+
+## Front Carries
+- Traditional Sling Carry (TSC)
+
+## Hip Carries
+- Traditional Sling Carry (TSC)
+- No-sew Ring Sling
+- Simple Hip Carry (HC)
+
+## Back Carries
+- Traditional Back Carry (TBC)
