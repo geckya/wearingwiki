@@ -21,6 +21,7 @@ jupyter: python3
 
 ## Carry Recipe
 _Base Size – 2 Traditional Sling Passes + 2 Reinforcing Passes_
+
 - Off center Traditional Sling Pass over baby on back with short tail over shoulder
 - Spread Chest Pass with long tail
 - Traditional Sling Pass over baby

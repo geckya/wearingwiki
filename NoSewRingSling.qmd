@@ -21,6 +21,7 @@ jupyter: python3
 
 ## Carry Recipe
 _No-Sew Ring Sling – Base Size Minus 5 – Traditional Sling Pass_
+
 - Thread one tail through two rings and back under the outside ring
 - Place short tail on shoulder with rings in corsage position
 - Wrap around back and under arm

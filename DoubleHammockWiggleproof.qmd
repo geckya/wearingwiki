@@ -21,6 +21,7 @@ jupyter: python3
 
 ## Carry Recipe
 _Double Hammock Wiggleproof Version – Base Size – Traditional Sling Pass + Wiggleproof Pass + 2 Reinforcing Passes_
+
 - Off center Traditional Sling Pass over baby on back with short tail over shoulder
 - Spread chest pass with long tail
 - Under baby’s leg and up for a Wiggleproof Pass

@@ -11,7 +11,7 @@ jupyter: python3
 |abbreviation	|RTUB
 |type	|back carry
 |pass types used	|Ruck Pass
-|size	|Base Minus 3
+|size	|Base Minus 4
 |finish variations|	
 |number of shoulders	|2
 |level	|advanced
@@ -20,7 +20,8 @@ jupyter: python3
 |good for	|Leaners, Sleep Transfer, Heat
 
 ## Carry Recipe
-_Ruck Tied Under Bum – Base Size Minus 3 – Ruck Pass_
+_Ruck Tied Under Bum – Base Size Minus 4 – Ruck Pass_
+
 - Ruck Pass over baby on back
 - Under arms and TUB
 

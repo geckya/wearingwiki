@@ -21,6 +21,7 @@ jupyter: python3
 
 ## Carry Recipe
 _Double Sling Shoulder to Shoulder – Base Size – 2 Traditional Sling Passes + 2 Bunched Reinforcing Passes_
+
 - Off center Traditional Sling Pass over baby on back with long tail over shoulder
 - Short tail comes across in bunched chest pass over long tail
 - Shoulder flip long tail

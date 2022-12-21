@@ -21,6 +21,7 @@ jupyter: python3
 
 ## Carry Recipe
 _Strap Carry – Base Size Minus 4 – Bunched Ruck Pass + 2 Reinforcing Passes_
+
 - Bunch wrap over baby’s back and under arms and over your shoulders in a ruck pass
 - Under arms and bunched reinforcing passes
 - TIF

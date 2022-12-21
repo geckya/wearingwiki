@@ -21,6 +21,7 @@ jupyter: python3
 
 ## Carry Recipe
 _Traditional Sling Carry – Base Minus 5 – Traditional Sling Pass_
+
 - Traditional Sling Pass over baby (Or pre-tie, then insert baby)
 - TAS with a Slip Knot or Double Knot (if using a double knot, knot can be slid to wearer's back before placing baby in carry
 

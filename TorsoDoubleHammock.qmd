@@ -21,6 +21,7 @@ jupyter: python3
 
 ## Carry Recipe
 _Torso Double Hammock – Base Size – 2 Torso Passes + 2 Reinforcing Passes_
+
 - Off center Torso Pass over baby on back
 - Spread chest pass with long tail
 - Under arm and over baby for another Torso Pass

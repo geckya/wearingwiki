@@ -11,5 +11,5 @@ jupyter: python3
 
 ## Back Carries
 - [Ruck Tied at Shoulder (RTAS)](RuckTAS.html)
-- [Ruck Tied Under Bum (RUB)](RuckTUB.html)
+- [Ruck Tied Under Bum (RTUB)](RuckTUB.html)
 - [Strap Carry](StrapCarry.html)

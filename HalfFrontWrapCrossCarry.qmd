@@ -1,5 +1,5 @@
 ---
-title: "Front Wrap Cross Carry"
+title: "Half Front Wrap Cross Carry"
 format:
   html:
     code-fold: true
@@ -8,24 +8,25 @@ jupyter: python3
 
 | | 
 |---|---
-|abbreviation	|FWCC
+|abbreviation	|HFWCC, Half FWCC
 |type	|front carry
 |pass types used	|Torso Pass, Cross Pass
-|size	|Base Size
+|size	|Base Minus 3
 |finish variations|	
 |number of shoulders	|2
 |level	|beginner
-|type of wrap	|Woven Wrap, Stretchy Wrap, Hybrid Wrap
-|characteristics	|Poppable with a Stretchy
-|good for	|Straighteners, Nursing, Sleep Transfer, Newborns, Toddlers and Support
+|type of wrap	|Woven Wrap
+|characteristics	|
+|good for	|Straighteners, Nursing, Sleep Transfer, Toddlers and Support
 
 ## Carry Recipe
-Base Size – Torso Pass + 2 Cross Passes   
-Torso Pass (Optional: Fold wrap hot dog style with rails up)   
-Cross in Back and bring tails over shoulders   
-Slide baby in pocket   
-Two Cross Passes, spread or bunched   
-Tie in Back   
+_Half Front Wrap Cross Carry – Base Size Minus 3 – Torso Pass + Cross Pass_
+
+- Short tail over one shoulder and across back diagonally
+- Long tail under arm, around belly, and across back for a Torso Pass and then over shoulder
+- Baby goes in pocket
+- Long tail comes down for Cross Pass under baby’s leg
+- Tie off with Slip Knot
 
 ## Tutorial Links
 ### Links to photo tutorials

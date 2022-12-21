@@ -21,6 +21,7 @@ jupyter: python3
 
 ## Carry Recipe
 _Ring Jordan’s Back Carry – Base Size – Traditional Sling Pass + Cross Pass + Torso Pass_
+
 - Traditional Sling Pass over baby on back
 - Thread both tails through ring
 - Shoulder flip with under arm tail over same shoulder and across baby for a Cross Pass

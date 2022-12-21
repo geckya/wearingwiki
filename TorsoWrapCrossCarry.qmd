@@ -21,6 +21,7 @@ jupyter: python3
 
 ## Carry Recipe
 _Reinforced Torso / Torso Wrap Cross Carry – Base Size – Torso Pass + 2 Reinforcing Passes_
+
 - Torso Pass over baby on back
 - Half Knot over chest
 - Under arm and baby’s leg for Reinforced Pass
