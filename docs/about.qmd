@@ -1,0 +1,9 @@
+---
+title: "About"
+---
+
+We built the original version of this woven wrap carries wiki in 2014 to make it easier to search for carries by wrap size or other attributes (like, "good for leaners"), featuring carry recipes, carry diagrams, and links to tutorials from the global babywearing community.
+
+After being offline for a few years, we're working to rebuild the site. Please be patient as we work to get back to being fully functional, starting with the carry recipes and features. Since a lot of our original tutorial links are broken, we're starting with a clean slate, and could use your help to identify the best tutorials around today! If you'd like to recommend a tutorial or a new carry, please reach out to us through [Facebook](https://www.facebook.com/wearingwiki) or [GitHub issue](https://github.com/geckya/wearingwiki/issues).
+
+[Support the running of the Wiki](https://ko-fi.com/geckya)
