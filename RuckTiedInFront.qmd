@@ -1,5 +1,5 @@
 ---
-title: "Reinforced Ruck"
+title: "Ruck Tied in Front"
 format:
   html:
     code-fold: true
@@ -8,24 +8,23 @@ jupyter: python3
 
 | | 
 |---|---
-|abbreviation	|
+|abbreviation	|RTIF
 |type	|back carry
-|pass types used	|Ruck Pass
+|pass types used	|Ruck Pass, Reinforcing Pass
 |size	|Base Minus 2
 |finish variations|	
 |number of shoulders	|2
-|level	|
+|level	|beginner
 |type of wrap	|Woven Wrap
-|characteristics	|
-|good for	|Leaners, Toddlers and Support
+|characteristics	|optionally Uses Rings
+|good for	|Leaners, Sleep Transfer, Heat
 
 ## Carry Recipe
-_Reinforced Ruck – Base Size Minus 2 – Ruck Pass + 2 Reinforcing Passes_
+_Ruck Tied in Front – Base Size Minus 2 – Ruck Pass + 2 Bunched Reinforcing Passes_
 
 - Ruck Pass over baby on back
-- One tail under arm and spread across baby and under leg for Reinforcing Pass
-- Repeat with other tail
-- Tie in front or Tie Tibetan
+- Under arms and Bunched Reinforcing Passes
+- Tie in front
 
 ## Tutorial Links
 ### Links to photo tutorials

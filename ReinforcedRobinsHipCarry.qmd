@@ -12,14 +12,15 @@ jupyter: python3
 |type	|hip carry
 |pass types used	|Traditional Sling Pass, Cross Pass
 |size	|Base Size
-|finish variations|	
+|finish variations|With Ring
 |number of shoulders	|1
 |level	|
 |type of wrap	|Woven Wrap
-|characteristics	|Poppable
+|characteristics	|Poppable, optionally Uses Ring
 |good for	|Straighteners, Leaners, Toddlers and Support
 
 ## Carry Recipe
+### Standard Reinforced Robin's Hip Carry
 _Reinforced Robin’s Hip Carry – Base Size – 2 Traditional Sling Passes + Cross Pass_
 
 - Fold wrap in half lengthwise and place middle in corsage position
@@ -27,6 +28,16 @@ _Reinforced Robin’s Hip Carry – Base Size – 2 Traditional Sling Passes + C
 - Slide baby in both Traditional Sling Passes and tighten
 - Split wrap and take closest tail over baby and under leg for Cross Pass
 - Other tail comes down around waist and tie in back
+
+### Reinforced Robin's Hip Carry with Ring
+_Reinforced Robin’s Hip Carry with Ring – Base Size – 2 Traditional Sling Passes and 2 Reinforcing Passes_
+
+- Fold wrap in half lengthwise and thread one ring onto both tails
+- Place ring in corsage position and wrap over you to form a Traditional Sling Pass
+- Tighten both tails
+- Slide baby into pocket and spread both rebozo passes
+- TUB or Reinforcing Passes, spread or bunched
+- Tie in back
 
 ## Tutorial Links
 ### Links to photo tutorials

@@ -1,5 +1,5 @@
 ---
-title: "Front Wrap Cross Carry"
+title: "Giselle's Back Carry"
 format:
   html:
     code-fold: true
@@ -8,24 +8,24 @@ jupyter: python3
 
 | | 
 |---|---
-|abbreviation	|FWCC
-|type	|front carry
-|pass types used	|Torso Pass, Cross Pass
-|size	|Base Size
+|abbreviation	|GBC
+|type	|back carry
+|pass types used	|Traditional Sling Pass, Cross Pass, Reinforcing Pass
+|size	|Base Minus 1
 |finish variations|	
 |number of shoulders	|2
-|level	|beginner
-|type of wrap	|Woven Wrap, Stretchy Wrap, Hybrid Wrap
-|characteristics	|Poppable with a Stretchy
-|good for	|Straighteners, Nursing, Sleep Transfer, Newborns, Toddlers and Support
+|level	|
+|type of wrap	|Woven Wrap
+|characteristics	|Shoulder Flip
+|good for	|Straighteners, Leaners, Toddlers and Support
 
 ## Carry Recipe
-Base Size – Torso Pass + 2 Cross Passes   
-Torso Pass (Optional: Fold wrap hot dog style with rails up)   
-Cross in Back and bring tails over shoulders   
-Slide baby in pocket   
-Two Cross Passes, spread or bunched   
-Tie in Back   
+_Giselle’s Back Carry – Base Size Minus 1 – Traditional Sling Pass + Reinforcing Pass + Cross Pass_
+
+- Traditional Sling Pass over baby on back
+- Over shoulder pass goes under arm for Reinforcing Pass
+- Shoulder flip with other end and Cross Pass
+- Tie in front
 
 ## Tutorial Links
 ### Links to photo tutorials
